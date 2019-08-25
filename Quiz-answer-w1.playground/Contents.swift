@@ -9,10 +9,10 @@ var expensesMoneyInYear = expensesMoneyInmonth * 12 //Output:  24000
 
 
 // q2 & answer
-var sign:String = "Smoking is not allowed"
-var age:Int = 22
-var speed:Float = 54.7
-var iLoveSwift:Bool = true
+var sign:String = "Smoking is not allowed"  //String
+var age:Int = 22  //Int
+var speed:Float = 54.7  //Float
+var iLoveSwift:Bool = true  //Bool
 
 
 // q3 & answer
